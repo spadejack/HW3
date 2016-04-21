@@ -40,6 +40,14 @@
 		3A09E03F1CC769D600CE8BF6 /* PeterPanHW3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PeterPanHW3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A09E0431CC769D600CE8BF6 /* PeterPanHW3UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PeterPanHW3UITests.m; sourceTree = "<group>"; };
 		3A09E0451CC769D600CE8BF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A09E04E1CC769E400CE8BF6 /* Q1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Q1.playground; sourceTree = "<group>"; };
+		3A09E04F1CC76B1500CE8BF6 /* Q2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Q2.playground; sourceTree = "<group>"; };
+		3A09E0501CC76B9400CE8BF6 /* Q3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Q3.playground; sourceTree = "<group>"; };
+		3A09E0511CC76D9E00CE8BF6 /* Q4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Q4.playground; sourceTree = "<group>"; };
+		3A09E0521CC76FF500CE8BF6 /* Q5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Q5.playground; path = ../Q5.playground; sourceTree = "<group>"; };
+		3A09E0531CC7714100CE8BF6 /* Q6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Q6.playground; sourceTree = "<group>"; };
+		3A09E0551CC77B9400CE8BF6 /* Q8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Q8.playground; sourceTree = "<group>"; };
+		3A09E0561CC77C3C00CE8BF6 /* Q9.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Q9.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +98,14 @@
 				3A09E0371CC769D600CE8BF6 /* LaunchScreen.storyboard */,
 				3A09E03A1CC769D600CE8BF6 /* Info.plist */,
 				3A09E0291CC769D600CE8BF6 /* Supporting Files */,
+				3A09E04E1CC769E400CE8BF6 /* Q1.playground */,
+				3A09E04F1CC76B1500CE8BF6 /* Q2.playground */,
+				3A09E0501CC76B9400CE8BF6 /* Q3.playground */,
+				3A09E0511CC76D9E00CE8BF6 /* Q4.playground */,
+				3A09E0521CC76FF500CE8BF6 /* Q5.playground */,
+				3A09E0531CC7714100CE8BF6 /* Q6.playground */,
+				3A09E0551CC77B9400CE8BF6 /* Q8.playground */,
+				3A09E0561CC77C3C00CE8BF6 /* Q9.playground */,
 			);
 			path = PeterPanHW3;
 			sourceTree = "<group>";
